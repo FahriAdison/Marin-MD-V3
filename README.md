@@ -49,10 +49,6 @@ Download Modules
 ## Information
 > Marin whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
->
-> • NOTE: INI SC GAK BISA BUAT SESSION DI TERMUX YA, JADI KALIAN CARI SESSION DULU PAKAI SC LAIN 
-> • rekomendasi sc buat cari session [disini](https://github.com/ilmanhdyt/ShiraoriBOT-Md)
->
 > • NOTE: Pastikan Jaringan kalian lancar dan device kalian bagus:v, 
 > 
 > • Kalo pake termux mungkin bakal lama respon nya, saya sarankan pake heroku
@@ -149,7 +145,6 @@ npm index
 ## UNTUK PENGGUNA TERMUX
 ```bash
 
-CARI SESSION DULU PAKAI SC BOT MD YANG LAIN🙏
 pkg update && pkg upgrade
 pkg install git
 pkg install nodejs
@@ -159,8 +154,6 @@ pkg install yarn
 git clone https://github.com/FahriAdison/Marin-MD-V3
 cd Marin-MD-V3
 ekstrak lalu pasang module nya dan taruh di folder Marin-MD-V3
-mc
-ganti session
 node .
 ```
 
