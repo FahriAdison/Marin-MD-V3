@@ -1,0 +1,12 @@
+{
+  "name": "catzy bot-md",
+  "description": "Lightweight WhatsApp Bot",
+  "repository": "https://github.com/Ilhamskhzyi/botv1-Md",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "multi-device",
+    "whatsapp-bot"
+  ]
+}
