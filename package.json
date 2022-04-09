@@ -26,16 +26,16 @@
         "ShiraoriBOT",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/saipulanuar/v20-Md",
+    "homepage": "https://github.com/FahriAdison/Marin-MD-V3",
     "author": {
-        "name": "Saipul"
+        "name": "Fahri"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/saipulanuar/v20-Md.git"
+        "url": "git+https://github.com/FahriAdison/Marin-MD-V3.git"
     },
     "bugs": {
-        "url": "https://github.com/saipulanuar/v20-Md/issues"
+        "url": "https://github.com/FahriAdison/Marin-MD-V3/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
