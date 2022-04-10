@@ -186,7 +186,7 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
  [![Nurutomo](https://github.com/Nurutomo.png?size=150)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=250)](https://github.com/ariffb25) | [![F](https://github.com/Alfarqun.png?size=80)](https://github.com/Alfarqun) | [![Hyzerr](https://github.com/Hyzerr.png?size=250)](https://github.com/Hyzerr) | [![Johannes](https://github.com/Johannes2803.png?size=250)](https://github.com/Johannes)
 ----|----|----|----|----
 [Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [F](https://github.com/Alfarqun) | [Hyzerr](https://github.com/Hyzerr) | [Johannes](https://github.com/Johannes2803)
- Author | suhu | suhu | rekan | rekan
+ Author | suhu | suhu | rekan | Ny guru
  
 ------
  
