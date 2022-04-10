@@ -145,6 +145,7 @@ npm index
 ## UNTUK PENGGUNA TERMUX
 ```bash
 
+CARI SESSION DULU PAKAI SC BOT MD YANG LAIN🙏
 pkg update && pkg upgrade
 pkg install git
 pkg install nodejs
@@ -154,6 +155,8 @@ pkg install yarn
 git clone https://github.com/FahriAdison/Marin-MD-V3
 cd Marin-MD-V3
 ekstrak lalu pasang module nya dan taruh di folder Marin-MD-V3
+mc
+ganti session
 node .
 ```
 
